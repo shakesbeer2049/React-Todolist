@@ -1,5 +1,5 @@
 import React from "react"
-import TDL from "./Todo.js"
+import TDL from "./components/Todo.js"
 function App(){
     return(<div>
         <TDL />
